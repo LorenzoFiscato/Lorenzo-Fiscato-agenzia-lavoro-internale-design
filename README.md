@@ -1,7 +1,7 @@
 # Agenzia di lavoro interinale - Design
 
 Progettazione di un'applicazione web per l'assegnazione diretta a tempo determinato
-dei clienti di un'agenzia di lavoro interinale alle aziende che ne fanno richiesta
+dei clienti di un'agenzia di lavoro interinale alle piccole aziende che ne fanno richiesta
 
 ## Utenti
 - **Azienda**: si registra al servizio e inserisce le offerte di lavoro
