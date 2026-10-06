@@ -17,3 +17,10 @@ dei clienti di un'agenzia di lavoro interinale alle aziende che ne fanno richies
 
 ## Note
 - Il server che memorizza offerte e richieste esiste già, quindi non è da progettare
+
+## Contenuto del progetto
+- `agenzia-lavoro-internale-design.drawio`
+- `Screenshot-UML.png`
+
+## Note sul lavoro
+- Diagramma dei casi d'uso non incluso perchè non ancora trattato in classe
